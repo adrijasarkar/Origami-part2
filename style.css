@@ -1,0 +1,45 @@
+h1{
+    color:blueviolet;
+    font-size: 80px;
+}
+
+a{
+    color:red;
+    font-size:30px;
+}
+
+.header{
+    border: solid;
+    display : flex;
+    justify-content: space-around;
+}
+
+.container{
+    border: solid;
+    background-color: rgb(166, 255, 255);
+}
+.bodying{
+    font-size: 30px;
+    justify-content:center;
+}
+.item{
+    text-align: center;
+}
+
+.grid{
+    border: solid;
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    justify-content:center;
+}
+.game img{
+    border: solid;
+    justify-content:center;
+    
+}
+.game p{
+    text-align: center;
+    font-size:30px;
+    color:rgb(66, 3, 66);
+}
